@@ -1,24 +1,13 @@
-### Hi there, I'm Robin Nusantara! 👋
+----
 
-<!--
-**RobinNusantara/RobinNusantara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="cemter">
+  <h2 align="center" style="margin: 5px 10px;">Hi there, I'm Robin Nusantara! 👋</h2>
+</div>
 
 ----
 
 <div align="center">
-  <h2 align="center" style="margin: 5px 10px;">Programming languages:</h2>
+  <h2 align="center" style="margin: 5px 10px;">Programming Languages :closed_book::pencil2:</h2>
   <img height="40" src="https://user-images.githubusercontent.com/34237504/137597114-8acb9c65-a50a-418d-a4c2-abc557d2f63b.png" />
   <img height="40" src="https://user-images.githubusercontent.com/34237504/137597113-346d54b0-54a7-4ca1-9b06-fc8755ba2052.png" />
   <img height="40" src="https://user-images.githubusercontent.com/34237504/137596868-578a4cf2-76e1-464b-8ae1-910fe885118c.png" />
@@ -30,7 +19,7 @@ Here are some ideas to get you started:
 ----
 
 <div align="center">
-  <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+  <h2 align="center" style="margin: 5px 10px;">Github Stats :bar_chart:</h2> 
   <img src="https://github-readme-stats.vercel.app/api?username=RobinNusantara&show_icons=true&locale=en" />
   <img src="http://github-readme-streak-stats.herokuapp.com/?user=RobinNusantara&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
