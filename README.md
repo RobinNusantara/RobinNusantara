@@ -1,7 +1,7 @@
 
 ## :trophy: Git profile Trophies
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RobinNusantara&layout=compact&theme=onedark" alt="RobinNusantara" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RobinNusantara&layout=compact&theme=onedark&rank=-?" alt="RobinNusantara" /></a> </p>
 
 ## 🔥 Streak Stats
 <br>
